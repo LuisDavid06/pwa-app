@@ -1,8 +1,8 @@
 {
-    "name": "Mi PWA",
-    "short_name": "PWA",
-    "description": "Una Progressive Web App con Vite y React",
-    "start_url": "/pwa-app/",
+    "short_name": "Mi PWA",
+    "name": "Mi Progressive Web App",
+    "description": "Una aplicación web progresiva con React",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
